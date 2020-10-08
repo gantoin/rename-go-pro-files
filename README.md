@@ -5,7 +5,11 @@ The script will rename your GoPro .mp4 files from :
 
 To :
 
+![alt text](images/screen1.png)
+
 You need to install `mediainfo` to run the script :
+
+![alt text](images/screen2.png)
 
 Linux :
 ```
