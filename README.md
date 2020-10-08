@@ -3,13 +3,13 @@ A simple script to rename your GoPro files
 
 The script will rename your GoPro .mp4 files from :
 
-To :
-
 ![alt text](images/screen1.png)
 
-You need to install `mediainfo` to run the script :
+To :
 
 ![alt text](images/screen2.png)
+
+You need to install `mediainfo` to run the script :
 
 Linux :
 ```
